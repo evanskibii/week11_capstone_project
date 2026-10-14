@@ -1,0 +1,7 @@
+{
+  "kind": "teaching_stub",
+  "workload": "1000 deterministic routing calls",
+  "threshold_ms": 1000,
+  "caption": "Threshold is for a local teaching run and is not a production SLA.",
+  "measured_result": null
+}

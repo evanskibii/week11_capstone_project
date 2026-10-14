@@ -1,0 +1,300 @@
+{"id": "synthetic-001", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 1.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-002", "message": "Synthetic case: high fever with worsening symptoms. Example 2.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-003", "message": "Synthetic case: mild headache for one day. Example 3.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-004", "message": "Synthetic case: slightly tired after a busy day. Example 4.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-005", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 5.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-006", "message": "Synthetic case: high fever with worsening symptoms. Example 6.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-007", "message": "Synthetic case: mild headache for one day. Example 7.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-008", "message": "Synthetic case: slightly tired after a busy day. Example 8.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-009", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 9.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-010", "message": "Synthetic case: high fever with worsening symptoms. Example 10.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-011", "message": "Synthetic case: mild headache for one day. Example 11.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-012", "message": "Synthetic case: slightly tired after a busy day. Example 12.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-013", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 13.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-014", "message": "Synthetic case: high fever with worsening symptoms. Example 14.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-015", "message": "Synthetic case: mild headache for one day. Example 15.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-016", "message": "Synthetic case: slightly tired after a busy day. Example 16.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-017", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 17.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-018", "message": "Synthetic case: high fever with worsening symptoms. Example 18.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-019", "message": "Synthetic case: mild headache for one day. Example 19.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-020", "message": "Synthetic case: slightly tired after a busy day. Example 20.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-021", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 21.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-022", "message": "Synthetic case: high fever with worsening symptoms. Example 22.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-023", "message": "Synthetic case: mild headache for one day. Example 23.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-024", "message": "Synthetic case: slightly tired after a busy day. Example 24.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-025", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 25.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-026", "message": "Synthetic case: high fever with worsening symptoms. Example 26.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-027", "message": "Synthetic case: mild headache for one day. Example 27.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-028", "message": "Synthetic case: slightly tired after a busy day. Example 28.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-029", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 29.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-030", "message": "Synthetic case: high fever with worsening symptoms. Example 30.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-031", "message": "Synthetic case: mild headache for one day. Example 31.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-032", "message": "Synthetic case: slightly tired after a busy day. Example 32.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-033", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 33.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-034", "message": "Synthetic case: high fever with worsening symptoms. Example 34.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-035", "message": "Synthetic case: mild headache for one day. Example 35.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-036", "message": "Synthetic case: slightly tired after a busy day. Example 36.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-037", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 37.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-038", "message": "Synthetic case: high fever with worsening symptoms. Example 38.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-039", "message": "Synthetic case: mild headache for one day. Example 39.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-040", "message": "Synthetic case: slightly tired after a busy day. Example 40.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-041", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 41.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-042", "message": "Synthetic case: high fever with worsening symptoms. Example 42.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-043", "message": "Synthetic case: mild headache for one day. Example 43.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-044", "message": "Synthetic case: slightly tired after a busy day. Example 44.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-045", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 45.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-046", "message": "Synthetic case: high fever with worsening symptoms. Example 46.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-047", "message": "Synthetic case: mild headache for one day. Example 47.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-048", "message": "Synthetic case: slightly tired after a busy day. Example 48.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-049", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 49.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-050", "message": "Synthetic case: high fever with worsening symptoms. Example 50.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-051", "message": "Synthetic case: mild headache for one day. Example 51.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-052", "message": "Synthetic case: slightly tired after a busy day. Example 52.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-053", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 53.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-054", "message": "Synthetic case: high fever with worsening symptoms. Example 54.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-055", "message": "Synthetic case: mild headache for one day. Example 55.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-056", "message": "Synthetic case: slightly tired after a busy day. Example 56.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-057", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 57.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-058", "message": "Synthetic case: high fever with worsening symptoms. Example 58.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-059", "message": "Synthetic case: mild headache for one day. Example 59.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-060", "message": "Synthetic case: slightly tired after a busy day. Example 60.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-061", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 61.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-062", "message": "Synthetic case: high fever with worsening symptoms. Example 62.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-063", "message": "Synthetic case: mild headache for one day. Example 63.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-064", "message": "Synthetic case: slightly tired after a busy day. Example 64.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-065", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 65.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-066", "message": "Synthetic case: high fever with worsening symptoms. Example 66.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-067", "message": "Synthetic case: mild headache for one day. Example 67.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-068", "message": "Synthetic case: slightly tired after a busy day. Example 68.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-069", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 69.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-070", "message": "Synthetic case: high fever with worsening symptoms. Example 70.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-071", "message": "Synthetic case: mild headache for one day. Example 71.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-072", "message": "Synthetic case: slightly tired after a busy day. Example 72.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-073", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 73.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-074", "message": "Synthetic case: high fever with worsening symptoms. Example 74.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-075", "message": "Synthetic case: mild headache for one day. Example 75.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-076", "message": "Synthetic case: slightly tired after a busy day. Example 76.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-077", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 77.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-078", "message": "Synthetic case: high fever with worsening symptoms. Example 78.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-079", "message": "Synthetic case: mild headache for one day. Example 79.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-080", "message": "Synthetic case: slightly tired after a busy day. Example 80.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-081", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 81.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-082", "message": "Synthetic case: high fever with worsening symptoms. Example 82.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-083", "message": "Synthetic case: mild headache for one day. Example 83.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-084", "message": "Synthetic case: slightly tired after a busy day. Example 84.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-085", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 85.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-086", "message": "Synthetic case: high fever with worsening symptoms. Example 86.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-087", "message": "Synthetic case: mild headache for one day. Example 87.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-088", "message": "Synthetic case: slightly tired after a busy day. Example 88.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-089", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 89.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-090", "message": "Synthetic case: high fever with worsening symptoms. Example 90.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-091", "message": "Synthetic case: mild headache for one day. Example 91.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-092", "message": "Synthetic case: slightly tired after a busy day. Example 92.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-093", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 93.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-094", "message": "Synthetic case: high fever with worsening symptoms. Example 94.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-095", "message": "Synthetic case: mild headache for one day. Example 95.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-096", "message": "Synthetic case: slightly tired after a busy day. Example 96.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-097", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 97.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-098", "message": "Synthetic case: high fever with worsening symptoms. Example 98.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-099", "message": "Synthetic case: mild headache for one day. Example 99.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-100", "message": "Synthetic case: slightly tired after a busy day. Example 100.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-101", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 101.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-102", "message": "Synthetic case: high fever with worsening symptoms. Example 102.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-103", "message": "Synthetic case: mild headache for one day. Example 103.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-104", "message": "Synthetic case: slightly tired after a busy day. Example 104.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-105", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 105.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-106", "message": "Synthetic case: high fever with worsening symptoms. Example 106.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-107", "message": "Synthetic case: mild headache for one day. Example 107.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-108", "message": "Synthetic case: slightly tired after a busy day. Example 108.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-109", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 109.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-110", "message": "Synthetic case: high fever with worsening symptoms. Example 110.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-111", "message": "Synthetic case: mild headache for one day. Example 111.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-112", "message": "Synthetic case: slightly tired after a busy day. Example 112.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-113", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 113.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-114", "message": "Synthetic case: high fever with worsening symptoms. Example 114.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-115", "message": "Synthetic case: mild headache for one day. Example 115.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-116", "message": "Synthetic case: slightly tired after a busy day. Example 116.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-117", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 117.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-118", "message": "Synthetic case: high fever with worsening symptoms. Example 118.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-119", "message": "Synthetic case: mild headache for one day. Example 119.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-120", "message": "Synthetic case: slightly tired after a busy day. Example 120.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-121", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 121.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-122", "message": "Synthetic case: high fever with worsening symptoms. Example 122.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-123", "message": "Synthetic case: mild headache for one day. Example 123.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-124", "message": "Synthetic case: slightly tired after a busy day. Example 124.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-125", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 125.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-126", "message": "Synthetic case: high fever with worsening symptoms. Example 126.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-127", "message": "Synthetic case: mild headache for one day. Example 127.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-128", "message": "Synthetic case: slightly tired after a busy day. Example 128.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-129", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 129.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-130", "message": "Synthetic case: high fever with worsening symptoms. Example 130.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-131", "message": "Synthetic case: mild headache for one day. Example 131.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-132", "message": "Synthetic case: slightly tired after a busy day. Example 132.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-133", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 133.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-134", "message": "Synthetic case: high fever with worsening symptoms. Example 134.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-135", "message": "Synthetic case: mild headache for one day. Example 135.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-136", "message": "Synthetic case: slightly tired after a busy day. Example 136.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-137", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 137.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-138", "message": "Synthetic case: high fever with worsening symptoms. Example 138.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-139", "message": "Synthetic case: mild headache for one day. Example 139.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-140", "message": "Synthetic case: slightly tired after a busy day. Example 140.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-141", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 141.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-142", "message": "Synthetic case: high fever with worsening symptoms. Example 142.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-143", "message": "Synthetic case: mild headache for one day. Example 143.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-144", "message": "Synthetic case: slightly tired after a busy day. Example 144.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-145", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 145.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-146", "message": "Synthetic case: high fever with worsening symptoms. Example 146.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-147", "message": "Synthetic case: mild headache for one day. Example 147.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-148", "message": "Synthetic case: slightly tired after a busy day. Example 148.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-149", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 149.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-150", "message": "Synthetic case: high fever with worsening symptoms. Example 150.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-151", "message": "Synthetic case: mild headache for one day. Example 151.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-152", "message": "Synthetic case: slightly tired after a busy day. Example 152.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-153", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 153.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-154", "message": "Synthetic case: high fever with worsening symptoms. Example 154.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-155", "message": "Synthetic case: mild headache for one day. Example 155.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-156", "message": "Synthetic case: slightly tired after a busy day. Example 156.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-157", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 157.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-158", "message": "Synthetic case: high fever with worsening symptoms. Example 158.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-159", "message": "Synthetic case: mild headache for one day. Example 159.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-160", "message": "Synthetic case: slightly tired after a busy day. Example 160.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-161", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 161.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-162", "message": "Synthetic case: high fever with worsening symptoms. Example 162.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-163", "message": "Synthetic case: mild headache for one day. Example 163.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-164", "message": "Synthetic case: slightly tired after a busy day. Example 164.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-165", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 165.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-166", "message": "Synthetic case: high fever with worsening symptoms. Example 166.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-167", "message": "Synthetic case: mild headache for one day. Example 167.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-168", "message": "Synthetic case: slightly tired after a busy day. Example 168.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-169", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 169.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-170", "message": "Synthetic case: high fever with worsening symptoms. Example 170.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-171", "message": "Synthetic case: mild headache for one day. Example 171.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-172", "message": "Synthetic case: slightly tired after a busy day. Example 172.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-173", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 173.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-174", "message": "Synthetic case: high fever with worsening symptoms. Example 174.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-175", "message": "Synthetic case: mild headache for one day. Example 175.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-176", "message": "Synthetic case: slightly tired after a busy day. Example 176.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-177", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 177.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-178", "message": "Synthetic case: high fever with worsening symptoms. Example 178.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-179", "message": "Synthetic case: mild headache for one day. Example 179.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-180", "message": "Synthetic case: slightly tired after a busy day. Example 180.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-181", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 181.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-182", "message": "Synthetic case: high fever with worsening symptoms. Example 182.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-183", "message": "Synthetic case: mild headache for one day. Example 183.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-184", "message": "Synthetic case: slightly tired after a busy day. Example 184.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-185", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 185.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-186", "message": "Synthetic case: high fever with worsening symptoms. Example 186.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-187", "message": "Synthetic case: mild headache for one day. Example 187.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-188", "message": "Synthetic case: slightly tired after a busy day. Example 188.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-189", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 189.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-190", "message": "Synthetic case: high fever with worsening symptoms. Example 190.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-191", "message": "Synthetic case: mild headache for one day. Example 191.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-192", "message": "Synthetic case: slightly tired after a busy day. Example 192.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-193", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 193.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-194", "message": "Synthetic case: high fever with worsening symptoms. Example 194.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-195", "message": "Synthetic case: mild headache for one day. Example 195.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-196", "message": "Synthetic case: slightly tired after a busy day. Example 196.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-197", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 197.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-198", "message": "Synthetic case: high fever with worsening symptoms. Example 198.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-199", "message": "Synthetic case: mild headache for one day. Example 199.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-200", "message": "Synthetic case: slightly tired after a busy day. Example 200.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-201", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 201.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-202", "message": "Synthetic case: high fever with worsening symptoms. Example 202.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-203", "message": "Synthetic case: mild headache for one day. Example 203.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-204", "message": "Synthetic case: slightly tired after a busy day. Example 204.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-205", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 205.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-206", "message": "Synthetic case: high fever with worsening symptoms. Example 206.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-207", "message": "Synthetic case: mild headache for one day. Example 207.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-208", "message": "Synthetic case: slightly tired after a busy day. Example 208.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-209", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 209.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-210", "message": "Synthetic case: high fever with worsening symptoms. Example 210.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-211", "message": "Synthetic case: mild headache for one day. Example 211.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-212", "message": "Synthetic case: slightly tired after a busy day. Example 212.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-213", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 213.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-214", "message": "Synthetic case: high fever with worsening symptoms. Example 214.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-215", "message": "Synthetic case: mild headache for one day. Example 215.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-216", "message": "Synthetic case: slightly tired after a busy day. Example 216.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-217", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 217.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-218", "message": "Synthetic case: high fever with worsening symptoms. Example 218.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-219", "message": "Synthetic case: mild headache for one day. Example 219.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-220", "message": "Synthetic case: slightly tired after a busy day. Example 220.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-221", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 221.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-222", "message": "Synthetic case: high fever with worsening symptoms. Example 222.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-223", "message": "Synthetic case: mild headache for one day. Example 223.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-224", "message": "Synthetic case: slightly tired after a busy day. Example 224.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-225", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 225.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-226", "message": "Synthetic case: high fever with worsening symptoms. Example 226.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-227", "message": "Synthetic case: mild headache for one day. Example 227.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-228", "message": "Synthetic case: slightly tired after a busy day. Example 228.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-229", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 229.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-230", "message": "Synthetic case: high fever with worsening symptoms. Example 230.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-231", "message": "Synthetic case: mild headache for one day. Example 231.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-232", "message": "Synthetic case: slightly tired after a busy day. Example 232.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-233", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 233.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-234", "message": "Synthetic case: high fever with worsening symptoms. Example 234.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-235", "message": "Synthetic case: mild headache for one day. Example 235.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-236", "message": "Synthetic case: slightly tired after a busy day. Example 236.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-237", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 237.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-238", "message": "Synthetic case: high fever with worsening symptoms. Example 238.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-239", "message": "Synthetic case: mild headache for one day. Example 239.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-240", "message": "Synthetic case: slightly tired after a busy day. Example 240.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-241", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 241.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-242", "message": "Synthetic case: high fever with worsening symptoms. Example 242.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-243", "message": "Synthetic case: mild headache for one day. Example 243.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-244", "message": "Synthetic case: slightly tired after a busy day. Example 244.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-245", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 245.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-246", "message": "Synthetic case: high fever with worsening symptoms. Example 246.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-247", "message": "Synthetic case: mild headache for one day. Example 247.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-248", "message": "Synthetic case: slightly tired after a busy day. Example 248.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-249", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 249.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-250", "message": "Synthetic case: high fever with worsening symptoms. Example 250.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-251", "message": "Synthetic case: mild headache for one day. Example 251.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-252", "message": "Synthetic case: slightly tired after a busy day. Example 252.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-253", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 253.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-254", "message": "Synthetic case: high fever with worsening symptoms. Example 254.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-255", "message": "Synthetic case: mild headache for one day. Example 255.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-256", "message": "Synthetic case: slightly tired after a busy day. Example 256.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-257", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 257.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-258", "message": "Synthetic case: high fever with worsening symptoms. Example 258.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-259", "message": "Synthetic case: mild headache for one day. Example 259.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-260", "message": "Synthetic case: slightly tired after a busy day. Example 260.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-261", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 261.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-262", "message": "Synthetic case: high fever with worsening symptoms. Example 262.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-263", "message": "Synthetic case: mild headache for one day. Example 263.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-264", "message": "Synthetic case: slightly tired after a busy day. Example 264.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-265", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 265.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-266", "message": "Synthetic case: high fever with worsening symptoms. Example 266.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-267", "message": "Synthetic case: mild headache for one day. Example 267.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-268", "message": "Synthetic case: slightly tired after a busy day. Example 268.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-269", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 269.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-270", "message": "Synthetic case: high fever with worsening symptoms. Example 270.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-271", "message": "Synthetic case: mild headache for one day. Example 271.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-272", "message": "Synthetic case: slightly tired after a busy day. Example 272.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-273", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 273.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-274", "message": "Synthetic case: high fever with worsening symptoms. Example 274.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-275", "message": "Synthetic case: mild headache for one day. Example 275.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-276", "message": "Synthetic case: slightly tired after a busy day. Example 276.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-277", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 277.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-278", "message": "Synthetic case: high fever with worsening symptoms. Example 278.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-279", "message": "Synthetic case: mild headache for one day. Example 279.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-280", "message": "Synthetic case: slightly tired after a busy day. Example 280.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-281", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 281.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-282", "message": "Synthetic case: high fever with worsening symptoms. Example 282.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-283", "message": "Synthetic case: mild headache for one day. Example 283.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-284", "message": "Synthetic case: slightly tired after a busy day. Example 284.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-285", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 285.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-286", "message": "Synthetic case: high fever with worsening symptoms. Example 286.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-287", "message": "Synthetic case: mild headache for one day. Example 287.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-288", "message": "Synthetic case: slightly tired after a busy day. Example 288.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-289", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 289.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-290", "message": "Synthetic case: high fever with worsening symptoms. Example 290.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-291", "message": "Synthetic case: mild headache for one day. Example 291.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-292", "message": "Synthetic case: slightly tired after a busy day. Example 292.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-293", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 293.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-294", "message": "Synthetic case: high fever with worsening symptoms. Example 294.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-295", "message": "Synthetic case: mild headache for one day. Example 295.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-296", "message": "Synthetic case: slightly tired after a busy day. Example 296.", "expected_route": "self_care", "synthetic": true}
+{"id": "synthetic-297", "message": "Synthetic case: sudden chest pain and cannot breathe. Example 297.", "expected_route": "emergency", "synthetic": true}
+{"id": "synthetic-298", "message": "Synthetic case: high fever with worsening symptoms. Example 298.", "expected_route": "urgent", "synthetic": true}
+{"id": "synthetic-299", "message": "Synthetic case: mild headache for one day. Example 299.", "expected_route": "routine", "synthetic": true}
+{"id": "synthetic-300", "message": "Synthetic case: slightly tired after a busy day. Example 300.", "expected_route": "self_care", "synthetic": true}

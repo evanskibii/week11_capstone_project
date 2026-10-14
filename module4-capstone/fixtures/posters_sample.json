@@ -1,0 +1,98 @@
+[
+  {
+    "poster_id": "poster-01",
+    "clinic_name": "Teaching Clinic 1",
+    "language": "English",
+    "title": "Synthetic Health Notice 1",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-02",
+    "clinic_name": "Teaching Clinic 2",
+    "language": "English",
+    "title": "Synthetic Health Notice 2",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-03",
+    "clinic_name": "Teaching Clinic 3",
+    "language": "English",
+    "title": "Synthetic Health Notice 3",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-04",
+    "clinic_name": "Teaching Clinic 4",
+    "language": "English",
+    "title": "Synthetic Health Notice 4",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-05",
+    "clinic_name": "Teaching Clinic 5",
+    "language": "English",
+    "title": "Synthetic Health Notice 5",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-06",
+    "clinic_name": "Teaching Clinic 6",
+    "language": "English",
+    "title": "Synthetic Health Notice 6",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-07",
+    "clinic_name": "Teaching Clinic 7",
+    "language": "English",
+    "title": "Synthetic Health Notice 7",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-08",
+    "clinic_name": "Teaching Clinic 8",
+    "language": "English",
+    "title": "Synthetic Health Notice 8",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-09",
+    "clinic_name": "Teaching Clinic 9",
+    "language": "English",
+    "title": "Synthetic Health Notice 9",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-10",
+    "clinic_name": "Teaching Clinic 10",
+    "language": "English",
+    "title": "Synthetic Health Notice 10",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-11",
+    "clinic_name": "Teaching Clinic 11",
+    "language": "English",
+    "title": "Synthetic Health Notice 11",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  },
+  {
+    "poster_id": "poster-12",
+    "clinic_name": "Teaching Clinic 12",
+    "language": "English",
+    "title": "Synthetic Health Notice 12",
+    "alt_text": "Synthetic clinic notice used for metadata validation.",
+    "source": "synthetic"
+  }
+]

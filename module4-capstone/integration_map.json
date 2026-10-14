@@ -1,0 +1,36 @@
+{
+  "project": "AfyaPlus Module 4 Capstone",
+  "mode": "deterministic_stub",
+  "integrations": [
+    {
+      "week": 6,
+      "capability": "triage_api",
+      "path": "app/api.py",
+      "test": "tests/test_api.py"
+    },
+    {
+      "week": 7,
+      "capability": "cost_and_logistics_tools",
+      "path": "app/tools.py",
+      "test": "tests/test_tools.py"
+    },
+    {
+      "week": 8,
+      "capability": "pins_and_versioning",
+      "path": "requirements.txt",
+      "test": "README.md"
+    },
+    {
+      "week": 9,
+      "capability": "security_smoke",
+      "path": "app/security.py",
+      "test": "tests/test_security_smoke.py"
+    },
+    {
+      "week": 10,
+      "capability": "clinic_poster_transfer",
+      "path": "app/poster.py",
+      "test": "tests/test_poster.py"
+    }
+  ]
+}

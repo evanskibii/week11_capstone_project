@@ -1,0 +1,35 @@
+{
+  "sprint": "Week 11 Capstone",
+  "items": [
+    {
+      "id": "W11-01",
+      "title": "Proposal and maps",
+      "status": "done",
+      "evidence": "proposal.md, integration_map.json"
+    },
+    {
+      "id": "W11-02",
+      "title": "Router and API",
+      "status": "done",
+      "evidence": "app/router.py, app/api.py"
+    },
+    {
+      "id": "W11-03",
+      "title": "Security and test pyramid",
+      "status": "done",
+      "evidence": "tests/"
+    },
+    {
+      "id": "W11-04",
+      "title": "Documentation pack",
+      "status": "done",
+      "evidence": "docs/"
+    },
+    {
+      "id": "W11-05",
+      "title": "Peer review",
+      "status": "todo",
+      "evidence": "review_log.md"
+    }
+  ]
+}

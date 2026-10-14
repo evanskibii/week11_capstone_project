@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gold-001",
+    "message": "Sudden chest pain and cannot breathe",
+    "expected_route": "emergency"
+  },
+  {
+    "id": "gold-002",
+    "message": "Persistent vomiting since morning",
+    "expected_route": "urgent"
+  },
+  {
+    "id": "gold-003",
+    "message": "Mild headache today",
+    "expected_route": "routine"
+  },
+  {
+    "id": "gold-004",
+    "message": "A little tired after walking",
+    "expected_route": "self_care"
+  }
+]
